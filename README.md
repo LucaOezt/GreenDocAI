@@ -34,11 +34,17 @@ The project follows a structured approach:
 ## Dataset
 The dataset used in this project includes images of tomato plants. The data was sourced from various agricultural databases and contains thousands of records with multiple features, focusing on identifying different types of diseases in tomato plants.
 
+<img width="1001" alt="image" src="https://github.com/user-attachments/assets/dca03a21-eca2-42fd-848d-367d704bb195" />
+
+
 ## Model
 The model developed for this project is based on a convolutional neural network (CNN) architecture. The key components of the model include:
 - Input layers for image data
 - Multiple convolutional layers for feature extraction
 - Fully connected layers for classification
+
+  <img width="1001" alt="image" src="https://github.com/user-attachments/assets/bfe6966e-0445-4e0b-b070-37bdd5b3f4ca" />
+
 
 ## Models_GreenDoc.ipynb
 The `Models_GreenDoc.ipynb` notebook contains the model code and comparisons for GreenDocAI. It includes:
@@ -59,11 +65,10 @@ This notebook also lists the diseases that the model is trained to identify, inc
 - Spider Mites (Two-spotted Spider Mite)
 
 ## Results
-The model achieved significant accuracy in identifying and classifying different diseases in tomato plants. Performance metrics include:
-- **Accuracy**: 90%
-- **Precision**: 88%
-- **Recall**: 87%
-- **F1 Score**: 88%
+
+<img width="1001" alt="image" src="https://github.com/user-attachments/assets/e4358cc5-ac73-423e-a0e9-a6e89bcd1cbc" />
+
+<img width="1001" alt="image" src="https://github.com/user-attachments/assets/8cf88578-0f48-43b4-8948-8a8257e99c53" />
 
 ## Installation
 To install and run the project, follow these steps:
